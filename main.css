@@ -1,0 +1,19 @@
+h1{
+    color: #3498db;
+}
+
+body{
+    background-color: rgb(179, 179, 244);
+}
+
+
+div{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 40px;
+}
+h2{
+    color: darkblue;
+}
